@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Quicksand-Regular';
+    src:url(Quicksand/Quicksand-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Quicksand-Light';
+    src:url(Quicksand/Quicksand-Light.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Raleway-Thin';
+    src: url(Raleway/Raleway-Thin.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Quicksand-SemiBold';
+    src:url(Quicksand/Quicksand-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Quicksand-SemiBold';
+    src:url(Quicksand/Quicksand-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Rajdhani-SemiBold';
+    src: url(Rajdhani/Rajdhani-SemiBold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Rajdhani-Light';
+    src: url(Rajdhani/Rajdhani-Light.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Rajdhani-Medium';
+    src: url(Rajdhani/Rajdhani-Medium.ttf) format('truetype');
+}
