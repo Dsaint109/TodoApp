@@ -1,7 +1,7 @@
 require('./bootstrap');
 import Vue from 'vue'
 import App from './App.vue'
-import { store } from './store'
+import { store } from './store/store.js'
 
 export const bus = new Vue();
 
